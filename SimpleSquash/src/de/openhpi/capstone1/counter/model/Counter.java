@@ -3,7 +3,6 @@ package de.openhpi.capstone1.counter.model;
 import java.util.ArrayList;
 import java.util.List;
 
-import de.openhpi.capstone1.counter.controller.ContinousStrategy;
 import de.openhpi.capstone1.counter.controller.ExponentialStrategy;
 import de.openhpi.capstone1.counter.controller.Strategy;
 import de.openhpi.capstone1.counter.view.Observer;
